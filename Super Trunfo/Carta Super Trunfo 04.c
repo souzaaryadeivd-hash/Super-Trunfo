@@ -24,7 +24,7 @@ int main() {
     int pontosTuristicos2;
     float densidade2;
     float pibPerCapita2;
- 
+
 
     printf("Informe a primeira carta\n\n");
     printf("Informe o Estado (A-H): ");
